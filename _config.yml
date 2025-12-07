@@ -1,12 +1,12 @@
 # Site settings
 title: '<<'
-description: "GDD 워크플로우 / 프레임워크"
+description: 'GDD 워크플로우 / 프레임워크'
 
 # Build settings
 markdown: kramdown
 
 # Theme (GitHub Pages default)
-theme: minima
+theme: jekyll-theme-minima
 
 # Exclude files from processing
 exclude:
