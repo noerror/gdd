@@ -120,6 +120,7 @@
 - [GDD 구조 가이드라인](020-GDD-Structure-Guide.md)
 - [GDD 섹션 작성 가이드라인](021-GDD-Guide.md)
 - [GDD 작성 팁](022-GDD-Tips.md)
+- [참고 기획 요소 리뷰](033-Review.md)
 
 ## 8. GDD 개요 문서
 
