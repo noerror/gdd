@@ -1,0 +1,15 @@
+# Site settings
+title: '<<'
+description: 'GDD 워크플로우 / 프레임워크'
+
+# Build settings
+# markdown: kramdown
+
+# Theme (GitHub Pages default)
+theme: jekyll-theme-minimal
+
+# Exclude files from processing
+exclude:
+  - .git
+  - .github
+  - README.md
