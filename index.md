@@ -30,8 +30,8 @@
 # Phase 1: 아이디어 발굴
 
 - Pitch 문서 작성 / 빠른 검증
-- [게임 피치 문서 작성 가이드라인](010-Game-Pitch-Guide.md)
-- [게임 장르 분류 가이드라인](032-Genre-Guide.md)
+- [피치 문서 작성 가이드라인](010-Game-Pitch-Guide.md)
+- [장르 분류 가이드라인](032-Genre-Guide.md)
 
 ## 1. 아이디어 수집
 
@@ -52,8 +52,8 @@
 # Phase 2: 비전 수립
 
 - 하이 컨셉 기획서 작성 / 방향성 정립
-- [게임 디자인 용어 쉽게 이해하기](030-Game-Design-Analogies.md)
-- [GDD 카테고리별 참고 이론](031-Design-Theory-Applications.md)
+- [용어 쉽게 이해하기](030-Game-Design-Analogies.md)
+- [카테고리별 참고 이론](031-Design-Theory-Applications.md)
 
 ## 3. 컨셉 기획서
 

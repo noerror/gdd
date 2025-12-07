@@ -1,4 +1,4 @@
-# 게임 디자인 용어 쉽게 이해하기 : Game Design Glossary Easy Understanding Guide
+# 게임 디자인 용어 쉽게 이해하기
 
 ## 1. 비전 및 컨셉 (Vision & Concept)
 
