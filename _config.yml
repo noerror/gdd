@@ -6,7 +6,7 @@ description: 'GDD 워크플로우 / 프레임워크'
 # markdown: kramdown
 
 # Theme (GitHub Pages default)
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 
 # Exclude files from processing
 exclude:
