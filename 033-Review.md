@@ -9,3 +9,4 @@
 # 기획 작성 팁
 - [레벨 디자인 분석](410-LevelDesign-Review.md)
 - [AI 디자인 분석](411-AI-Review.md)
+- [UI 디자인 분석](412-UI-Review.md)
