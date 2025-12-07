@@ -61,6 +61,7 @@
 **다중 블럭 / 파일 번들링:**
 - 하나의 .md 파일에 여러 데이터 블럭 / 각각 고유 ID
 - 여러 파일 패킹 가능 : 관련 데이터를 하나의 문서에 묶어 관리 / 필요시 개별 추출
+
     ````
     - 전사 기본 설정 (YAML)
     > 캐릭터 기본 스탯과 장비 슬롯 정의입니다.
@@ -72,8 +73,7 @@
       str: 15
     equip_slots: [weapon, armor]
     # 기획 노트: 초반 생존력을 위해 HP 비중을 높게 설정함
-    ```
-    
+    ```    
     - 전사 초기 드롭 테이블 (JSON)
     > 몬스터 처치 시 획득 가능한 아이템 목록입니다.
     ```json:loot_table_warrior_start.json
@@ -168,8 +168,7 @@ python extract_code_blocks.py design-doc.md data/extracted
     ### 퀘스트 도입부: 촌장의 의뢰
     - 상황: 플레이어가 튜토리얼을 마치고 처음 마을에 진입한 직후
     - 등장인물: 촌장(Elder), 주인공(Hero)
-    - 연출 의도: 평화롭던 마을에 위기감이 감도는 분위기 조성. 촌장은 주인공을 구세주처럼 반김.
-    
+    - 연출 의도: 평화롭던 마을에 위기감이 감도는 분위기 조성. 촌장은 주인공을 구세주처럼 반김.    
     ```dialog:quest_start_001
     @scene: village_entrance
     @bgm: mysterious_forest.mp3
@@ -201,8 +200,9 @@ python extract_code_blocks.py design-doc.md data/extracted
 - **LLM 도구 활용**: Cursor, Codex CLI 환경에서 기획서(Context)를 기반으로 데이터 생성, 검증, 분석을 자동화합니다.
 - **MCP(Model Context Protocol) 연동**: LLM이 프로젝트 내 관련 문서를 스스로 탐색(Retrieval)하고 분석하여 작업 실행력을 극대화합니다.
 - **활용 예시**:
-  > "game-pitch.md의 '핵심 기둥' 항목을 참조하여 전투 시스템 규칙 초안을 작성해줘."
-  > "캐릭터 설정 텍스트를 분석해서, 그 성격과 역할에 어울리는 스탯 초기값을 YAML 데이터로 생성해줘."
+  > game-pitch.md의 '핵심 기둥' 항목을 참조하여 전투 시스템 규칙 초안을 작성해줘.
+
+  > 캐릭터 설정 텍스트를 분석해서, 그 성격과 역할에 어울리는 스탯 초기값을 YAML 데이터로 생성해줘.
 
 **자동 참조 데이터 판단**
 - LLM이 기존 기획서에서 관련 데이터 자동 탐색 / RAG로 컨텍스트 구성
