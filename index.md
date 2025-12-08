@@ -54,6 +54,7 @@
 - 하이 컨셉 기획서 작성 / 방향성 정립
 - [용어 쉽게 이해하기](030-Game-Design-Analogies.md)
 - [카테고리별 참고 이론](031-Design-Theory-Applications.md)
+- [아트 스타일 분석](413-Art-Review.md)
 
 ## 3. 컨셉 기획서
 
