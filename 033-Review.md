@@ -11,3 +11,5 @@
 - [AI 디자인 분석](411-AI-Review.md)
 - [UI 디자인 분석](412-UI-Review.md)
 - [슈터 이동 및 컨트롤 분석](420-Shooter-Control-Review.md)
+- [생존 게임 설계 분석](421-Survival-Review.md)
+- [RPG 배틀 설계 분석](422-RPG-Combat-Review.md)
