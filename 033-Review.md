@@ -13,3 +13,4 @@
 - [슈터 이동 및 컨트롤 분석](420-Shooter-Control-Review.md)
 - [생존 게임 설계 분석](421-Survival-Review.md)
 - [RPG 배틀 설계 분석](422-RPG-Combat-Review.md)
+- [로그라이크 설계 분석](423-RougueLike-Review.md)
