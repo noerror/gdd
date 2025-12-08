@@ -149,6 +149,7 @@
 - [ArtStation](https://www.artstation.com/)
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
+- [Game UI Database](https://www.gameuidatabase.com/)
 
 ## 영화 무드
 - [ShotDeck](https://shotdeck.com/): 영화 스틸 최대급 라이브러리
