@@ -6,7 +6,7 @@
 - [출석 이벤트 리뷰](402-attendance.md)
 - [데미지 메커니즘 리뷰](403-damage.md)
 - [보스 배틀 메커니즘 리뷰](404-bossbattle.md)
-
+- [오픈월드 메커니즘 리뷰](405-openworld.md)
 
 # 기획 작성 팁
 - [레벨 디자인 분석](410-LevelDesign-Review.md)
