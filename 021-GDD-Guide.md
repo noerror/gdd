@@ -1,3 +1,8 @@
+---
+title: 섹션별 GDD 컨텐츠 작성가이드
+description: GDD의 비전·시스템·AI·레벨·경제·UI/UX 등 섹션별로 필요한 문서와 참조 가이드를 모은 인덱스
+---
+
 - 섹션별 GDD 작성 가이드
 - 장르별 GDD 작성 가이드
 - [GDD 작성 팁](022-GDD-Tips.md)

@@ -1,3 +1,8 @@
+---
+title: 플레이 & 기능 검증 (Prototype & Verification) 가이드라인
+description: 핵심 재미·로직·기술을 빠르게 검증하기 위한 웹/LLM 프로토타입 방법, 버티컬 슬라이스 전략, 체크리스트를 제시하는 가이드
+---
+
 # 플레이 & 기능 검증 (Prototype & Verification) 가이드라인
 
 ## 1. 목적

@@ -1,3 +1,8 @@
+---
+title: 무드보드 & 레퍼런스 작성 가이드
+description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼런스를 통해 명확히 전달하고, 팀 전체가 동일한 비전을 공유할 수 있도록 하는 창의적 워크플로우 가이드
+---
+
 # 무드보드 & 레퍼런스 작성 가이드
 
 # 1. 목적 (Purpose)
@@ -165,3 +170,4 @@
 ## 이미지 생성 활용
 - [Prompt Base](https://promptbase.com/)
 - [MidJourney](https://midjourney.com/)
+
