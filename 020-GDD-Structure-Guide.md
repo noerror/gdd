@@ -10,7 +10,9 @@ description: GDD 전체 문서 구조와 인덱스 범위, 문서 유형별 역�
 
 - [GDD 작성 원칙](024-Authoring-Rules.md)
 - [GDD 작성 팁](022-GDD-Tips.md)
+
 ---
+
 # 1. GDD 작성 주체와 역할 범위
 
 - 게임 / 크리에이티브 디렉터

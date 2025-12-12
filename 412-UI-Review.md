@@ -12,6 +12,8 @@ description: UI/UX 디자인의 코드베이스 분석 결과를 통해 플레�
 5. 온보딩 및 튜토리얼 UX (Onboarding & Tutorial UX) : 첫 5분 경험과 학습 곡선 설계
 6. 핵심 인사이트 및 구현 가이드 : 실무 적용을 위한 코드 예시와 테스트 방법
 
+---
+
 # 1. UX 원칙 및 사용성 (UX Principles & Usability)
 
 ## 1.1 기본 원칙과 휴리스틱
