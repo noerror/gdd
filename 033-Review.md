@@ -29,3 +29,5 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [타워 디펜스 설계 분석](427-Tower-Defense-Review.md)
 - [2D 플랫포머 설계 분석](428-2D-Platfomer-Review.md)
 - [메트로바이나 설계 분석](429-Metrovania-Review.md)
+- [오토 배틀러 게임 설계 분석](430-Autobattler-Review.md)
+- [팩토리 자동화 게임 설계 분석](431-Factory-Automation-Review.md)

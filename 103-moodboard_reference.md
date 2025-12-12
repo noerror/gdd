@@ -168,6 +168,6 @@ description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼�
 - [StudioBinder](https://studiosbinder.com/): 게임·영화 무드보드 튜토리얼
 
 ## 이미지 생성 활용
-- [Prompt Base](https://promptbase.com/)
-- [MidJourney](https://midjourney.com/)
+- [Prompt Base](https://promptbase.com/): 다양한 스타일의 이미지 생성 프롬프트 판매
+- [MidJourney](https://midjourney.com/): AI 이미지 생성
 
