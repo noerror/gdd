@@ -31,3 +31,5 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [메트로바이나 설계 분석](429-Metrovania-Review.md)
 - [오토 배틀러 게임 설계 분석](430-Autobattler-Review.md)
 - [팩토리 자동화 게임 설계 분석](431-Factory-Automation-Review.md)
+- [소울라이크 설계 분석](432-Soul-Like-Review.md)
+- [던전 크롤러 설계 분석](433-Dungeon-Crawler-Review.md)
