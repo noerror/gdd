@@ -12,7 +12,7 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [데미지 메커니즘 리뷰](403-damage.md)
 - [보스 배틀 메커니즘 리뷰](404-bossbattle.md)
 - [오픈월드 메커니즘 리뷰](405-openworld.md)
-- [랜덤 리뷰](406-random.md)
+- [랜덤 확률 메커니즘 리뷰](406-random.md)
 - [캐릭터 컨셉 작성 리뷰](407-character-concept.md)
 
 ## 기획 작성 팁
@@ -34,3 +34,4 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [팩토리 자동화 게임 설계 분석](431-Factory-Automation-Review.md)
 - [소울라이크 설계 분석](432-Soul-Like-Review.md)
 - [던전 크롤러 설계 분석](433-Dungeon-Crawler-Review.md)
+- [4X 게임 설계 분석](434-4x-review.md)
