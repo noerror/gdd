@@ -35,4 +35,4 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [소울라이크 설계 분석](432-Soul-Like-Review.md)
 - [던전 크롤러 설계 분석](433-Dungeon-Crawler-Review.md)
 - [4X 게임 설계 분석](434-4x-review.md)
-- [플레이 메타 요소 분석](434-Meta-Review.md)
+- [플레이 메타 요소 분석](435-Meta-Review.md)
