@@ -14,6 +14,7 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [오픈월드 메커니즘 리뷰](405-openworld.md)
 - [랜덤 확률 메커니즘 리뷰](406-random.md)
 - [캐릭터 컨셉 작성 리뷰](407-character-concept.md)
+- [퀘스트 작성 리뷰](408-quest.md)
 
 ## 기획 작성 팁
 - [레벨 디자인 분석](410-LevelDesign-Review.md)
