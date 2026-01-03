@@ -93,7 +93,7 @@ description: 1페이지 게임 피치 문서에서 비전·USP·타깃·핵심 �
 # 5. 참고 자료 및 예시
 
 - [Diablo Pitch](http://www.graybeardgames.com/download/diablo_pitch.pdf)
-- 작성 예제
+- 작성 예제 (역기획 추정)
 	```
 	# Diablo - 게임 피치 문서
 
