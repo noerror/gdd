@@ -15,6 +15,7 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [랜덤 확률 메커니즘 리뷰](406-random.md)
 - [캐릭터 컨셉 작성 리뷰](407-character-concept.md)
 - [퀘스트 작성 리뷰](408-quest.md)
+- [플레이 메타 요소 분석](409-play-meta.md)
 
 ## 기획 작성 팁
 - [레벨 디자인 분석](410-LevelDesign-Review.md)
@@ -36,4 +37,3 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [소울라이크 설계 분석](432-Soul-Like-Review.md)
 - [던전 크롤러 설계 분석](433-Dungeon-Crawler-Review.md)
 - [4X 게임 설계 분석](434-4x-review.md)
-- [플레이 메타 요소 분석](435-Meta-Review.md)
