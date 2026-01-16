@@ -211,6 +211,23 @@ python extract_code_blocks.py design-doc.md data/extracted
     ```
     ````
 
+**참고 도구: Yarn Spinner**
+- **개요**: 문서 기반의 디자인 데이터(Document-based Design Data)를 실현하는 대표적인 오픈소스 인터랙티브 스토리텔링 도구입니다.
+- **특징**: 텍스트 파일(.yarn)로 대화와 로직을 관리하여 버전 관리와 협업이 용이하며, Unity/Unreal 등 게임 엔진과 직접 연동됩니다. 텍스트 중심의 기획이 실제 게임 데이터로 직결되는 모범 사례입니다.
+- **웹사이트**: [https://yarnspinner.dev/](https://yarnspinner.dev/)
+- **작성 예시**:
+    ```yarn
+    title: Start
+    ---
+    Elder: 자네가 소문의 그 용병인가?
+    -> 네, 그렇습니다.
+        Elder: 잘 왔네. 숲의 입구를 부탁하네.
+        <<jump AcceptQuest>>
+    -> 아니요, 사람을 잘못 보셨습니다.
+        Elder: 저런, 내가 눈이 침침해서...
+    ===
+    ```
+
 ## 4-2. LLM 연동해서 데이터 생성
 
 - **LLM 도구 활용**: Cursor, Codex CLI 환경에서 기획서(Context)를 기반으로 데이터 생성, 검증, 분석을 자동화합니다.
