@@ -40,3 +40,4 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [던전 크롤러 설계 분석](433-Dungeon-Crawler-Review.md)
 - [4X 게임 설계 분석](434-4x-review.md)
 - [하이퍼 캐주얼 설계 분석](435-Hypercasual-Review.md)
+- [벨트 스크롤 설계 분석](436-Beltscroller-Review.md)
