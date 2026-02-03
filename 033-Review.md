@@ -41,3 +41,5 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [4X 게임 설계 분석](434-4x-review.md)
 - [하이퍼 캐주얼 설계 분석](435-Hypercasual-Review.md)
 - [벨트 스크롤 설계 분석](436-Beltscroller-Review.md)
+- [몬스터 테이밍 설계 분석](437-Monster-Taming-Review.md)
+- [런앤건 설계 분석](438-RunAndGun-Review.md)
