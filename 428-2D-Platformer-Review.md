@@ -819,3 +819,10 @@ description: 2D 플랫포머 게임의 핵심 특성을 MECE 원칙으로 분석
 - **선형 플랫포머**: 명확한 목표와 점진적 숙달의 만족감
 - **메트로이드바니아**: 탐험의 자유로움과 성장의 체감
 - **퍼즐 중심**: 논리적 해결의 지적 만족감
+
+# 관련 문서 (See Also)
+
+- [공간 & 이동 모듈 (Space & Traversal)](301_Space_Traversal_Module_Guideline.md)
+- [레벨/스테이지 구조 & 목표·지형 배치](130-level_structure_layout.md)
+- [비디오 게임 장르 구분](032-Genre-Guide.md)
+- [기획 요소 리뷰 목록](033-Review.md)

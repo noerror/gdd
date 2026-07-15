@@ -101,3 +101,8 @@ description: 캐릭터, 몬스터, NPC의 생태계를 구축하고 관계도를
 - **플레이어 중심 AI (Ghost Recon Wildlands)**: 아군 AI가 플레이어 경험을 우선시하는 전략적 치트를 활용하세요.
 - **자연어 처리 (Facade)**: 플레이어 입력을 실시간으로 해석하여 인터랙티브 드라마를 구현하세요.
 
+## 관련 문서 (See Also)
+
+- [AI / NPC 행동 & 적/몬스터 난이도 설계 가이드](121-ai_npc_behavior_difficulty.md)
+- [세계관·설정 & 월드빌딩](160-worldbuilding_setting.md)
+- [게임 캐릭터 컨셉 설계 가이드](407-character-concept.md)

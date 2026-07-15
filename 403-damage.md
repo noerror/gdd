@@ -413,3 +413,8 @@ description: 게임 데미지 계산 공식을 밸런스와 전략적 선택을 
 2. 피해량 피드백이 명확한가?
 3. 성장에 따른 피해 증가가 체감되는가?
 
+# 관련 문서 (See Also)
+
+- [전투 / 3C(캐릭터·컨트롤·카메라) 시스템](110-combat.md)
+- [스탯·드롭·확률 테이블](152-stats_drop_probability_tables.md)
+- [종합 밸런싱 설계 가이드](150-balancing_overview.md)

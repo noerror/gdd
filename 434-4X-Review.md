@@ -1042,3 +1042,10 @@ description: 4X 게임의 탐험·확장·개발·섬멸 핵심 요소를 분석
 - **그리번스 (Grievances)**: 타 문명에 대한 불만을 수치화한 시스템
 - **렌즈 시스템 (Lens System)**: 맵에 다양한 정보를 시각적으로 표시하는 도구
 - **섹터 (Sector)**: 행성이나 도시를 묶어 AI에게 관리를 위임하는 단위
+
+# 관련 문서 (See Also)
+
+- [전략/전술 지휘 모듈 (Strategy & Command)](305_Strategy_Command_Module_Guideline.md)
+- [경제 & 구축/경영 모듈 (Economy, Construction & Management)](307_Economy_Construction_Management_Module_Guideline.md)
+- [비디오 게임 장르 구분](032-Genre-Guide.md)
+- [기획 요소 리뷰 목록](033-Review.md)

@@ -848,3 +848,10 @@ RPG 요소를 대폭 도입하여 캐릭터 성장과 장비 시스템을 강조
 9. **비밀의 가치**: 탐험 보상을 의미 있게 (게임플레이 변화로 보답)
 10. **플레이테스트**: 탐험 흐름 반복 검증 (Boss Keys의 종속성 차트 활용)
 11. **분산 개발**: 글로벌 팀 협업으로 품질 향상 (Ori 개발팀처럼 오디오-비주얼 시너지)
+
+# 관련 문서 (See Also)
+
+- [공간 & 이동 모듈 (Space & Traversal)](301_Space_Traversal_Module_Guideline.md)
+- [진행 구조(스테이지·챕터·월드 언락)](132-progression_world_unlocks.md)
+- [비디오 게임 장르 구분](032-Genre-Guide.md)
+- [기획 요소 리뷰 목록](033-Review.md)

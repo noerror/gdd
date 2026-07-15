@@ -137,3 +137,11 @@ description: 라이브 이벤트, 시즌 콘텐츠, 배틀패스를 플레이어
 - [시즌패스 리뷰](400-seasonpass.md)
 - [메타 리뷰](401-meta.md)
 - [출석 이벤트 리뷰](402-attendance.md)
+
+## 관련 문서 (See Also)
+
+- [메타 목표 & 장기 참여 설계](220-meta_goals_long_term_engagement.md)
+- [라이브옵스·패치·정책](222-liveops_patches_policies.md)
+- [시즌 패스 (Season Pass) 분석 및 가이드](400-seasonpass.md)
+- [모바일 게임 출석 이벤트 메커니즘 분석](402-attendance.md)
+- [수익화 / 비즈니스 모델(BM) 작성 가이드](144-monetization_business_model.md)

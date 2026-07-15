@@ -102,3 +102,9 @@ description: 게임의 경제성 시스템을 리소스 수집·조합·강화·
 - **지속 가능성 우선**: 단기 수익보다 장기 플레이어 유지에 초점을 맞춘 경제 디자인을 지향하세요.
 - **데이터 기반 의사결정**: 플레이어 행동 데이터를 지속적으로 모니터링하고 경제 지표를 추적하여 실시간 밸런스 조정을 수행하세요.
 
+## 관련 문서 (See Also)
+
+- [게임 경제 & 자원 수급 구조](140-economy_resource_flow.md)
+- [성장 시스템(캐릭터·계정·스킬·장비)](141-progression_growth_systems.md)
+- [스탯·드롭·확률 테이블](152-stats_drop_probability_tables.md)
+- [경제 & 구축/경영 모듈 (Economy, Construction & Management)](307_Economy_Construction_Management_Module_Guideline.md)

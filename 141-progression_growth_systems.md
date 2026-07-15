@@ -11,6 +11,7 @@ description: 게임의 성장 시스템을 캐릭터·계정·스킬·장비로 
 ## 2. 범위 (Scope)
 - **포함**: 캐릭터 레벨링, 스킬 트리, 장비 성장, 계정·마스터리 시스템, XP 획득·분배 로직
 - **제외**: 경제 시스템(화폐·상점), 전투 밸런싱 세부사항, UI/UX 구현 세부사항
+- **문서 경계**: 이 문서는 성장 시스템(XP·스킬·장비·계정)의 구조를 소유합니다. 콘텐츠 개방 순서는 [진행 구조](132-progression_world_unlocks.md), 보상 가치·파워 커브는 [보상 체계](142-rewards_power_curve.md), 재화 순환은 [게임 경제](140-economy_resource_flow.md)가 소유합니다.
 
 ## 3. 설계 목표 (Design Goals)
 
@@ -44,10 +45,10 @@ description: 게임의 성장 시스템을 캐릭터·계정·스킬·장비로 
 ### 성장 메커닉
 - **Progression Gate**: 특정 성장 단계로 넘어가기 위한 요구사항
 - **Power Curve**: 레벨에 따른 캐릭터·장비 성능 증가율 그래프
-- **Mastery Deep**: 특정 분야의 심층적 전문화
+- **Mastery Depth**: 특정 분야의 심층적 전문화
 
 ### 시스템 설계
-- **Skill Gaming**: 플레이어가 시스템을 악용하는 행위 (예: 최적화된 XP 파밍)
+- **System Gaming(악용 플레이)**: 플레이어가 시스템의 허점을 파고들어 의도치 않은 이득을 얻는 행위 (예: 최적화된 XP 파밍)
 - **Gatekeeping**: 성장 속도를 의도적으로 제한하는 메커닉
 
 ## 6. 품질 체크리스트 (Quality Checklist)
@@ -104,3 +105,9 @@ description: 게임의 성장 시스템을 캐릭터·계정·스킬·장비로 
 - **창작 중심 성장 (Super Mario Maker)**: 기술적 스킬 향상과 창의성 개발을 동시에 달성하고, 커뮤니티 참여를 통한 사회적 성장을 유도하세요.
 - **점진적 복잡성 (첫 레벨 설계)**: 기본 메커닉부터 고급 성장 요소까지 자연스럽게 전개하고, 재방문 가치를 확보하세요.
 
+## 관련 문서 (See Also)
+
+- [진행 구조(스테이지·챕터·월드 언락)](132-progression_world_unlocks.md)
+- [보상 시스템 & 파워 커브](142-rewards_power_curve.md)
+- [게임 경제 & 자원 수급 구조](140-economy_resource_flow.md)
+- [성장 & 빌드 모듈 (Progression & Build)](306_Progression_Build_Module_Guideline.md)

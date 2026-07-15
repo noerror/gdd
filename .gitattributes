@@ -1,0 +1,6 @@
+# 개행 정규화: 마크다운/설정 파일은 저장소에 LF로 저장
+# (Windows/WSL 혼용 편집으로 인한 CRLF 전체-diff 오염 방지)
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.png binary

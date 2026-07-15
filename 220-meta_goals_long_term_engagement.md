@@ -11,6 +11,7 @@ description: 게임의 메타 목표와 장기 참여 시스템을 플레이어 
 ## 2. 범위 (Scope)
 - **포함**: 메타 프로그레션, 장기 목표, 일일·주간·시즌 목표, 업적 시스템
 - **제외**: 구체적인 보상 수치, UI 구현, 경제 시스템 세부사항
+- **문서 경계**: 이 문서는 세션 밖 장기 목표(메타 진행·시즌 목표·업적·수집)의 개념 정의를 소유합니다. 성장 수치·시스템 구조는 [성장 시스템](141-progression_growth_systems.md), 콘텐츠 언락은 [진행 구조](132-progression_world_unlocks.md), 이벤트·배틀패스 운영은 [라이브 이벤트](221-live_events_seasons_battlepass.md)가 소유합니다.
 
 ## 3. 설계 목표 (Design Goals)
 
@@ -40,7 +41,7 @@ description: 게임의 메타 목표와 장기 참여 시스템을 플레이어 
 
 ## 5. 관련 개념 (Key Concepts)
 
-- **Meta Progression**: 개별 게임 세션을 넘어서는 성장
+- **Meta Progression**: 개별 게임 세션·런이 끝나도 유지되는 영구 성장 (이 문서가 개념 정의를 소유)
 - **Daily/Weekly Goals**: 일일·주간 목표
 - **Achievement**: 특별한 도전 과제
 - **Season**: 일정 기간의 콘텐츠 사이클
@@ -95,3 +96,11 @@ description: 게임의 메타 목표와 장기 참여 시스템을 플레이어 
 - **다양한 업적**: 전투·탐험·수집 등 다양한 업적으로 여러 플레이 스타일을 지원하세요.
 - **의미 있는 보상**: 모든 목표와 업적에 의미 있는 보상을 제공하여 성취감을 극대화하세요.
 
+## 관련 문서 (See Also)
+
+- [라이브 이벤트·시즌·배틀패스](221-live_events_seasons_battlepass.md)
+- [라이브옵스·패치·정책](222-liveops_patches_policies.md)
+- [진행 구조(스테이지·챕터·월드 언락)](132-progression_world_unlocks.md)
+- [메타 & 라이브 운영 모듈 (Meta & Live Ops)](310_Meta_Live_Ops_Module_Guideline.md)
+- [게임 메타 성장 요소 분석](401-meta.md)
+- [메타 게임 요소 분석](409-play-meta.md)

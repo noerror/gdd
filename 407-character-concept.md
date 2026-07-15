@@ -665,3 +665,9 @@ description: 게임 캐릭터 컨셉 설계부터 아티스트와의 협업, 피
 - [ ] 색상: 주요 3-4색 통제되는가?
 - [ ] 레이어: 스케치/베이스/디테일/효과 분리되는가?
 - [ ] 금지사항: 디자이너 요청 금지 요소 없는가?
+
+# 관련 문서 (See Also)
+
+- [캐릭터·몬스터·NPC 시트 & 관계도](120-character_npc_profiles.md)
+- [세계관·설정 & 월드빌딩](160-worldbuilding_setting.md)
+- [비주얼 스타일 & 아트 디렉션](180-visual_style_art_direction.md)

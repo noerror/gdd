@@ -93,3 +93,9 @@ description: 게임의 핵심 비전과 컨셉을 정의하고, 타깃 플레이
 - **프로토타입 검증 (Fantastic Contraption)**: 초기 프로토타입으로 컨셉을 검증하고, 플레이어 피드백을 통해 점진적으로 개선하세요.
 - **의도적 선택 (Rules of the Game)**: 게임 디자인은 의도적 선택의 결과물이며, 플레이어 선택의 자유와 큐레이션된 경험의 균형을 유지하세요.
 
+## 관련 문서 (See Also)
+
+- [코어 경험 & 코어 루프](101-core_experience_loop.md)
+- [디자인 필러](102-design_pillars.md)
+- [경험 설계 & 감정 곡선](190-experience_emotional_curve.md)
+- [게임 피치(Pitch) 문서 작성](010-Game-Pitch-Guide.md)

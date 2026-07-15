@@ -108,3 +108,8 @@ NPC와 적/몬스터의 AI 행동 패턴과 난이도 스케일링을 일관된 
 - **인간성 레이어 (Halo Infinite)**: 전통적 AI에 불완전성, 다양성, 팀워크를 추가하여 인간 같은 행동을 구현하세요.
 - **점진적 난이도 (Ghost of Tsushima)**: lethality와 balance의 균형을 유지하며 플레이어 프로그레션에 따라 적 강함을 조절하세요.
 
+## 관련 문서 (See Also)
+
+- [캐릭터·몬스터·NPC 시트 & 관계도](120-character_npc_profiles.md)
+- [난이도 커브 & 스케일링](151-difficulty_curve_scaling.md)
+- [AI/NPC 행동 설계 분석](411-AI-Review.md)
