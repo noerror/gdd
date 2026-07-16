@@ -112,3 +112,4 @@ description: 게임의 경험 설계와 감정 곡선을 플레이어 몰입을 
 - [코어 경험 & 코어 루프](101-core_experience_loop.md)
 - [메인 스토리 구조 & 내러티브 아크](161-main_story_narrative_arc.md)
 - [난이도 커브 & 스케일링](151-difficulty_curve_scaling.md)
+- [협동 서바이벌 슈터 설계 분석](453-CoopSurvivalShooter-Review.md)

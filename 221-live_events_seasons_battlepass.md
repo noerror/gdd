@@ -145,3 +145,4 @@ description: 라이브 이벤트, 시즌 콘텐츠, 배틀패스를 플레이어
 - [시즌 패스 (Season Pass) 분석 및 가이드](400-seasonpass.md)
 - [모바일 게임 출석 이벤트 메커니즘 분석](402-attendance.md)
 - [수익화 / 비즈니스 모델(BM) 작성 가이드](144-monetization_business_model.md)
+- [스포츠 게임 설계 분석](445-Sports-Review.md)

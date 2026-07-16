@@ -43,14 +43,19 @@ description: 시즌패스·메타 성장·데미지·보스전 등 기획 요소
 - [벨트 스크롤 설계 분석](436-Beltscroller-Review.md)
 - [몬스터 테이밍 설계 분석](437-Monster-Taming-Review.md)
 - [런앤건 설계 분석](438-RunAndGun-Review.md)
-
-## 장르 커버리지 로드맵
-
-현재 19개 장르가 커버되어 있습니다. [장르 분류 가이드](032-Genre-Guide.md) 기준으로 아직 리뷰가 없는 주요 장르는 다음과 같습니다 (우선 후보 순).
-
-| 상태 | 장르 |
-|---|---|
-| 미작성 (우선 후보) | MOBA, 격투, 리듬, RTS(실시간 전략), 방치형(Idle) |
-| 미작성 | 레이싱, 스포츠, 비주얼노벨/내러티브 어드벤처, 매치3 퍼즐, 소셜 디덕션, 잠입(Stealth), MMORPG |
-
-참고: MMORPG의 퀘스트 시스템은 [퀘스트 작성 리뷰](408-quest.md)에서 상당 부분 다루고 있습니다.
+- [MOBA 설계 분석](439-MOBA-Review.md)
+- [격투 게임 설계 분석](440-Fighting-Review.md)
+- [리듬 게임 설계 분석](441-Rhythm-Review.md)
+- [RTS(실시간 전략) 설계 분석](442-RTS-Review.md)
+- [방치형/Idle 게임 설계 분석](443-Idle-Review.md)
+- [레이싱 게임 설계 분석](444-Racing-Review.md)
+- [스포츠 게임 설계 분석](445-Sports-Review.md)
+- [비주얼노벨 / 내러티브 어드벤처 설계 분석](446-VisualNovel-Review.md)
+- [MMORPG 설계 분석](447-MMORPG-Review.md)
+- [매치3 퍼즐 설계 분석](448-Match3-Review.md)
+- [소셜 디덕션 설계 분석](449-SocialDeduction-Review.md)
+- [잠입(Stealth) 설계 분석](450-Stealth-Review.md)
+- [무쌍(Musou) 설계 분석](451-Musou-Review.md)
+- [그랜드 전략 설계 분석](452-GrandStrategy-Review.md)
+- [협동 서바이벌 슈터 설계 분석](453-CoopSurvivalShooter-Review.md)
+- [인터랙티브 픽션 / 텍스트 어드벤처 설계 분석](454-InteractiveFiction-Review.md)

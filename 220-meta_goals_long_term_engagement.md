@@ -104,3 +104,4 @@ description: 게임의 메타 목표와 장기 참여 시스템을 플레이어 
 - [메타 & 라이브 운영 모듈 (Meta & Live Ops)](310_Meta_Live_Ops_Module_Guideline.md)
 - [게임 메타 성장 요소 분석](401-meta.md)
 - [메타 게임 요소 분석](409-play-meta.md)
+- [방치형/Idle 게임 설계 분석](443-Idle-Review.md)

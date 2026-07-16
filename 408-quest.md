@@ -2668,3 +2668,4 @@ MMORPG 퀘스트 시스템은 단순한 "할 일 목록"이 아닙니다. 그것
 - [퀘스트 / 미션 구조](131-quest_mission_structure.md)
 - [퀘스트 내러티브](162-quest_narrative.md)
 - [분기·선택지·플래그 시스템](164-branching_choices_flags.md)
+- [MMORPG 설계 분석](447-MMORPG-Review.md)

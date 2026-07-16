@@ -113,3 +113,4 @@ description: 게임 경제 시스템을 플레이어 유지 우선으로 설계�
 - [스탯·드롭·확률 테이블](152-stats_drop_probability_tables.md)
 - [경제 & 구축/경영 모듈 (Economy, Construction & Management)](307_Economy_Construction_Management_Module_Guideline.md)
 - [수익화 / 비즈니스 모델(BM) 작성 가이드](144-monetization_business_model.md)
+- [MMORPG 설계 분석](447-MMORPG-Review.md)

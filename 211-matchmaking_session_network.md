@@ -100,3 +100,5 @@ description: 멀티플레이 게임의 매치메이킹, 세션 관리, 네트워
 - [멀티플레이 핵심 규칙](210-multiplayer_core_rules.md)
 - [세션 & 모드 구조 모듈 (Session & Mode)](300_Session_Mode_Structure_Guideline.md)
 - [커뮤니티 & 소셜 기능](213-community_social_features.md)
+- [MOBA 설계 분석](439-MOBA-Review.md)
+- [MMORPG 설계 분석](447-MMORPG-Review.md)

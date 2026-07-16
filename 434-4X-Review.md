@@ -1049,3 +1049,4 @@ description: 4X 게임의 탐험·확장·개발·섬멸 핵심 요소를 분석
 - [경제 & 구축/경영 모듈 (Economy, Construction & Management)](307_Economy_Construction_Management_Module_Guideline.md)
 - [비디오 게임 장르 구분](032-Genre-Guide.md)
 - [기획 요소 리뷰 목록](033-Review.md)
+- [그랜드 전략 설계 분석](452-GrandStrategy-Review.md)

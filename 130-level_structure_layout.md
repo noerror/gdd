@@ -109,3 +109,4 @@ description: 레벨 구조, 목표 설정, 지형 및 오브젝트 배치를 메
 - [진행 구조(스테이지·챕터·월드 언락)](132-progression_world_unlocks.md)
 - [공간 & 이동 모듈 (Space & Traversal)](301_Space_Traversal_Module_Guideline.md)
 - [게임 레벨 디자인 분석: 플레이어 이동과 환경 설계 원칙](410-LevelDesign-Review.md)
+- [잠입(Stealth) 설계 분석](450-Stealth-Review.md)

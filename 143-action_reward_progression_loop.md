@@ -125,3 +125,4 @@ description: 게임의 핵심 액션-보상-진행 루프를 설계하여 플레
 - [코어 경험 & 코어 루프](101-core_experience_loop.md)
 - [성장 시스템(캐릭터·계정·스킬·장비)](141-progression_growth_systems.md)
 - [보상 시스템 & 파워 커브](142-rewards_power_curve.md)
+- [방치형/Idle 게임 설계 분석](443-Idle-Review.md)

@@ -1296,3 +1296,4 @@ LTV = 평균 플레이 일수 × 일일 세션 수 × 세션당 광고 노출 ×
 - [액션-보상-진행 루프](143-action_reward_progression_loop.md)
 - [비디오 게임 장르 구분](032-Genre-Guide.md)
 - [기획 요소 리뷰 목록](033-Review.md)
+- [매치3 퍼즐 설계 분석](448-Match3-Review.md)

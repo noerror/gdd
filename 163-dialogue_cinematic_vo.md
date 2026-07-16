@@ -126,3 +126,4 @@ description: 게임의 대사, 시네마틱, 보이스오버를 플레이어 몰
 - [분기·선택지·플래그 시스템](164-branching_choices_flags.md)
 - [오디오 디렉션 & 사운드스케이프](181-audio_direction_soundscape.md)
 - [로컬라이제이션 & 컬처럴라이제이션 작성 가이드](204-localization_culturalization.md)
+- [비주얼노벨 / 내러티브 어드벤처 설계 분석](446-VisualNovel-Review.md)

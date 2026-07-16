@@ -159,3 +159,4 @@ save_schema:
 - [툴·파이프라인 요구사항 작성 가이드](202-tools_pipeline_requirements.md)
 - [로그·텔레메트리·KPI 정의 작성 가이드](201-analytics_telemetry_kpi.md)
 - [QA 계획 & 테스트 케이스 작성 가이드](231-qa_plan_test_cases.md)
+- [MMORPG 설계 분석](447-MMORPG-Review.md)

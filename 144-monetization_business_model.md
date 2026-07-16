@@ -151,3 +151,5 @@ products:
 - [라이브 이벤트 / 시즌 / 배틀패스 작성 가이드](221-live_events_seasons_battlepass.md)
 - [로그·텔레메트리·KPI 정의 작성 가이드](201-analytics_telemetry_kpi.md)
 - [메타 목표 & 장기 동기 구조 작성 가이드](220-meta_goals_long_term_engagement.md)
+- [방치형/Idle 게임 설계 분석](443-Idle-Review.md)
+- [스포츠 게임 설계 분석](445-Sports-Review.md)

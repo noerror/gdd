@@ -100,3 +100,4 @@ description: 게임 밸런스를 체계적으로 검증하고 시뮬레이션하
 - [종합 밸런싱 설계 가이드](150-balancing_overview.md)
 - [스탯·드롭·확률 테이블](152-stats_drop_probability_tables.md)
 - [QA 계획 & 테스트 케이스](231-qa_plan_test_cases.md)
+- [매치3 퍼즐 설계 분석](448-Match3-Review.md)
