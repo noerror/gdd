@@ -205,3 +205,4 @@ description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼�
 - [비주얼 스타일 & 아트 디렉션](180-visual_style_art_direction.md)
 - [오디오 디렉션 & 사운드스케이프](181-audio_direction_soundscape.md)
 - [게임 비전·컨셉 & 타깃/포지셔닝](100-vision_concept_positioning.md)
+- [기획 산출물 평가 루브릭](012-Planning-Evaluation-Rubrics.md) — Phase 2 게이트와 채점 기준

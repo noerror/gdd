@@ -140,3 +140,4 @@ description: 게임의 핵심 비전과 컨셉을 정의하고, 타깃 플레이
 - [디자인 필러](102-design_pillars.md)
 - [경험 설계 & 감정 곡선](190-experience_emotional_curve.md)
 - [게임 피치(Pitch) 문서 작성](010-Game-Pitch-Guide.md)
+- [기획 산출물 평가 루브릭](012-Planning-Evaluation-Rubrics.md) — Phase 2 게이트와 채점 기준
