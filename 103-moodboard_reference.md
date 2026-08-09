@@ -28,6 +28,7 @@ description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼�
 ### 4.2 레퍼런스 (References)
 - **게임 레퍼런스**: 유사한 스타일의 게임
 - **비게임 레퍼런스**: 영화, 아트, 사진 등
+- **Anti-References (하지 말 것)**: 형용사·장르명이 아니라 **작품명**으로 씁니다. 한 항목 = `작품명 + 배제할 기능·연출 + 그것을 막는 우리 쪽 규칙` 3요소를 한 줄에. 3개 이상이며, 자사 전작 또는 이미 만든 기능이 있다면 그중 1개 이상은 반드시 그것을 향합니다. 둘 다 없다면 `자사 대상 없음 — 상용 전작·구현 기능 없음`을 별도로 적되 3개에는 세지 않습니다. 예 — Fallout `Darklands 꼴이 되지 않는 선까지만 오픈엔드로 간다`, Maxis `Outpost from Sierra의 숫자 다이얼로그 피드백은 쓰지 않는다`. `네온 사이버펑크`·`애니메 스타일`처럼 작품명이 없는 항목은 아무 기능도 기각하지 못하므로 Anti-References로 세지 않습니다.
 
 ### 4.3 설명 & 의도 (Description & Intent)
 - **선택 이유**: 각 레퍼런스를 선택한 이유
@@ -80,9 +81,8 @@ description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼�
 **기본 조합 공식** : `[장르/분위기] + [공간/배경] + [조명/색] + [감정]` (3~4개 요소)
 - 예: `dark fantasy forest fog blue light fear`, `sci-fi corridor high contrast lighting tension`
 
-**마이너스 검색**
-- SF 우주 (코미디 제외): `sci-fi spaceship interior -comedy -parody -cartoon`
-- 실사 무드만: `dark fantasy castle -anime -illustration`
+**마이너스 검색** (이미지 검색용 제외어입니다. 문서에 남기는 Anti-References와 다른 물건이며 그 서식은 4.2를 따릅니다)
+- 예: `sci-fi spaceship interior -comedy -parody -cartoon`, `dark fantasy castle -anime -illustration`
 
 **유사 이미지 검색**
 - 구글/Bing/ShotDeck/Frame Set의 "similar images" 기능으로 마음에 드는 이미지 기준 확장
@@ -99,15 +99,6 @@ description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼�
 
 - **트레이싱 금지**: 구조·조명·색감·분위기의 "원리"만 분석하여 활용
 - **상업 프로젝트**: 스톡 이미지 라이선스 확인, 영화 스틸은 "참고용" 명시, 여러 레퍼런스 조합으로 새로운 결과물 창출
-
-### 5.5 검색 키워드 예시
-
-**장르별 키워드**
-- **어두운 판타지 던전**: `dark fantasy dungeon torch light fog`, `medieval dungeon low key lighting horror`
-- **밝은 카툰 판타지**: `colorful fantasy village daylight warm light`, `storybook town cobblestone street`
-- **네온 사이버펑크**: `cyberpunk city street rain neon`, `asian cyberpunk alley magenta teal`
-- **로맨스 노을**: `golden hour couple silhouette city rooftop`, `romantic sunset backlight wide shot`
-- **스릴러 복도**: `thriller corridor low key lighting tension`, `dark hallway suspense high contrast`
 
 ## 6. 관련 개념 (Key Concepts)
 
@@ -136,7 +127,7 @@ description: 게임의 시각적·컨셉적 방향성을 무드보드와 레퍼�
 ### 7.2 레퍼런스
 - [ ] 레퍼런스가 다양하고 풍부한가?
 - [ ] 각 레퍼런스의 선택 이유가 명확한가?
-- [ ] 레퍼런스가 실현 가능한가?
+- [ ] Anti-References가 3개 이상이고 항목마다 작품명이 들어 있는가? 자사 전작·구현 기능이 있으면 그중 1개가 자사를 향하는가, 없으면 `자사 대상 없음`을 별도로 밝혔는가? (`네온 사이버펑크`·`다크 판타지`류 장르 형용사 항목은 0개로 센다)
 - [ ] 게임 외 원천(취미, 실물 관찰, 영화·책)에서 온 레퍼런스가 포함되어 있는가?
 - [ ] '최고작'과 별개로 원리가 가장 단순하게 드러나는 '교본작'이 병기되어 있는가?
 
